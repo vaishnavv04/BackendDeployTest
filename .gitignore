@@ -112,3 +112,6 @@ Thumbs.db
 
 # Local development
 *.local
+
+# Railway
+.railway/
